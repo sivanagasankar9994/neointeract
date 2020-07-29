@@ -12,6 +12,7 @@ function App() {
       {/* <div className="App">
         <Navbar />
       </div> */}
+      {/* Git push check */}
       <Route path="/" exact component={Login} />
       <Route path="/home" exact component={Home} />
     </Router>
